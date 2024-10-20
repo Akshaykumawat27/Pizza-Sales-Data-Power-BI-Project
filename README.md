@@ -1,23 +1,21 @@
-# Pizza-Sales-Data-Power-BI-Project
-Project Title: Pizza Sales Performance Dashboard
+🍕 Pizza Sales Performance Dashboard 📊
+Project Overview:
+This Pizza Sales Dashboard created in Power BI provides in-depth analysis of sales data, helping businesses track key performance metrics such as total revenue, customer behavior, and order trends. The dashboard equips businesses with data-driven insights to make informed decisions, optimize operations, and boost profitability.
 
-Project Overview: This project focuses on creating a Pizza Sales Dashboard using Power BI to analyze sales data and calculate key business performance metrics. The dashboard provides insights into total revenue, customer behavior, and order trends, helping businesses make informed decisions based on data.
+🔑 Key Metrics:
+💰 Total Revenue: Total value from all pizza orders.
+🛒 Average Order Value (AOV): Calculated by dividing total revenue by the number of orders.
+🍕 Total Pizzas Sold: Number of pizzas sold across all orders.
+📦 Total Orders: Total count of all pizza orders placed.
+⚖️ Average Pizzas Per Order: Average number of pizzas per order, calculated as total pizzas sold divided by total orders.
 
-Key Metrics:
+🚀 Key Features:
+Interactive Filters: Explore sales data across various time periods and categories.
+Dynamic Visualizations: Engaging pie charts, bar graphs, and trend lines to display core metrics.
+Actionable Insights: Highlights key trends in sales, customer preferences, and average spend per order.
 
-💰 Total Revenue: The sum of the total price of all pizza orders.
-🛒 Average Order Value: Calculated by dividing the total revenue by the total number of orders.
-🍕 Total Pizzas Sold: The total quantity of pizzas sold across all orders.
-📦 Total Orders: The overall count of pizza orders placed.
-⚖️ Average Pizzas Per Order: The average number of pizzas sold per order, calculated by dividing total pizzas sold by total orders.
-Key Features:
-
-Interactive Filters: Allow users to explore sales data across different time periods.
-Dynamic Visualizations: Pie charts, bar graphs, and trend lines to visually represent key metrics.
-Actionable Insights: The dashboard highlights important sales trends, average spend per order, and customer preferences.
-Skills Utilized:
-
-Data Modeling: Structured the sales data for accurate analysis.
-DAX Calculations: Used for calculating metrics such as total revenue, average order value, and more.
-Power BI Visuals: Created intuitive and user-friendly visualizations to deliver meaningful insights.
-This project is ideal for businesses looking to track their sales performance, optimize customer experience, and improve overall profitability.
+🛠️ Skills Utilized:
+Data Modeling: Structured data for precise, meaningful analysis.
+DAX Calculations: Applied for metrics like total revenue, average order value, and more.
+Power BI Visualizations: Designed intuitive, visually appealing dashboards to ensure ease of use and insightful analysis.
+This dashboard empowers businesses to track sales performance, understand customer behavior, and improve overall profitability. Whether you’re a business owner or a decision-maker, these insights will help you drive growth and success.
